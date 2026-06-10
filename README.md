@@ -1,4 +1,4 @@
-# Ilife_Project
+# 📱 Digital Well-Being Analyzer
 Description
 Digital Well-Being Analyzer is a Machine Learning-based application that helps users understand and improve their digital lifestyle. The system analyzes user screen time, social media usage, sleep habits, notifications, and other digital behavior patterns to predict their level of digital well-being.
 
